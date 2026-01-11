@@ -1,2 +1,3 @@
 Get the user service
 create a avatar for of user
+decide the timings
